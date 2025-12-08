@@ -1,4 +1,4 @@
-﻿Order_ID,Customer_ID,Address_ID,OrderDate,PaymentMethod,Status
+Order_ID,Customer_ID,Address_ID,OrderDate,PaymentMethod,Status
 1,407,486,2025-12-08 21:03:22.185326,Apple Pay,Delivered
 2,10,11,2025-12-08 21:02:19.131741,Cash on Delivery,Processing
 3,221,264,2025-12-08 21:01:06.003410,Apple Pay,Delivered

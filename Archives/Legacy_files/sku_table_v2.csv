@@ -1,4 +1,4 @@
-﻿SKU_ID,ProductID,CPU,GPU,RAM,Storage,ScreenSize,Weight,Price,Stock
+SKU_ID,ProductID,CPU,GPU,RAM,Storage,ScreenSize,Weight,Price,Stock
 2E4N0PA,1,MediaTek Octa-core,Integrated Graphics,4,64 GB SSD Storage,11.6,1.15,22990,8
 82KU017KIN,2,AMD Hexa-Core Ryzen 5,Radeon,8,512 GB SSD Storage,15.6,1.86,36289,45
 D560822WIN9B,3,Intel Core i5 (12th Gen),"GeForce RTX 3050 GPU, 4 GB",16,512 GB SSD Storage,15.6,2.41,78500,34

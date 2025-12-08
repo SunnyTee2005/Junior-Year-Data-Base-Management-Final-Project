@@ -1,4 +1,4 @@
-﻿AddressID,CustomerID,ReceiverName,Phone,Address,PaymentMethod
+AddressID,CustomerID,ReceiverName,Phone,Address,PaymentMethod
 1,1,翁俊傑,063 46038197,33626 關山縣民治街3號之8,Line Pay
 2,2,顏建成,0900988402,239 卑南建國街58號之4,Cash on Delivery
 3,3,范俊銘,01-29178971,24871 北港縣文山巷9號1樓,Cash on Delivery
