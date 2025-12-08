@@ -1,4 +1,4 @@
-﻿AddressID,CustomerID,ReceiverName,Phone,Address,PaymentMethod
+AddressID,CustomerID,ReceiverName,Phone,Address,PaymentMethod
 1,1,楊淑華,098 55357377,91126 朴子縣府中巷83號7樓,Line Pay
 2,2,王家豪,(09) 73638396,193 宜蘭劍潭路9號1樓,Line Pay
 3,2,張文欽,07-8872320,48697 竹北縣新興巷559號7樓,Line Pay
